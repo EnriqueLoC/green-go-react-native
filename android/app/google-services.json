@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "388498288972",
+    "firebase_url": "https://greenfuckingo-default-rtdb.firebaseio.com",
+    "project_id": "greenfuckingo",
+    "storage_bucket": "greenfuckingo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388498288972:android:be5a390252ef2d9c06dfe9",
+        "android_client_info": {
+          "package_name": "com.enriqueloc.GreenGo2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX4bQAFY2Yh3AsYj_G7UtGElCq4y6EGo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

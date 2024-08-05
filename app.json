@@ -2,6 +2,22 @@
   "expo": {
     "name": "GreenGo2",
     "slug": "GreenGo2",
-    "version": "1.0.0"
+    "orientation": "portrait",
+    "version": "1.0.0",
+    "icon": "./src/assets/images/recycle.png",
+    "splash": {
+      "image": "./src/assets/images/recycle.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0d06e66f-bbae-476a-8104-f5b7d43aebf4"
+      }
+    },
+    "android": {
+      "package": "com.enriqueloc.GreenGo2"
+    },
+    "scheme": "green-go-demo"
   }
 }
